@@ -6,5 +6,5 @@
 </div>
 
 <div align='center'>
-  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=You+can+contact+me+in+discord." />  
+  <img src="https://readme-typing-svg.herokuapp.com?color=F7F7F7&center=true&lines=If+you+have+any+questions+DM+me!" />  
 </div>
