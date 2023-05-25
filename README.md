@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm heytek 👋</h1>
 
 <div align='center'>
-  <img src="https://lanyard.cnrad.dev/api/303560706211708929?bg=1f1f1f&borderRadius=10px&animated=false" />  
+  <img src="https://tenor.com/pl/view/%C5%82otahell-gif-18301522696790180962" />  
 </div>
 
 
