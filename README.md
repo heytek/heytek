@@ -1,3 +1,3 @@
-<h1 align="center">dc.mcstyles.pl</h1>
+### Hello 👋
 
-
+Developer at [mcstyles.pl](https://mcstyles.pl);<br>
