@@ -1,6 +1,6 @@
-### Your reaction to this profile:
+### My staff:
 
-![](https://github.com/heytek/heytek/blob/main/shock-what.gif)
+[![My Skills](https://skillicons.dev/icons?i=java,mongodb,mysql,linux,bots,cloudflare)](https://skillicons.dev)
 
 
 
